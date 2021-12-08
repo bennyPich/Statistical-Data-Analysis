@@ -42,14 +42,14 @@ For each user, find:
 3. Analyze the data
 Describe the customers' behavior. Find the minutes, texts, and volume of data the users of each plan require per month. Calculate the mean, dispersion, and standard deviation. Plot histograms. Describe the distributions.
 4. Test the hypotheses
-  - The average revenue from users of Ultimate and Surf calling plans differs.
-  - The average revenue from users in NY-NJ area is different from that of the users from other regions.
-  - 
+    - The average revenue from users of Ultimate and Surf calling plans differs.
+    - The average revenue from users in NY-NJ area is different from that of the users from other regions.
+
 You decide what alpha value to use.
 
 Explain:
-  - How you formulated the null and alternative hypotheses.
-  - What criterion you used to test the hypotheses and why.
+    - How you formulated the null and alternative hypotheses.
+    - What criterion you used to test the hypotheses and why.
 5. Write an overall conclusion
 
 ## Description of the data
